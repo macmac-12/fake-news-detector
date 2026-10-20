@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Large Datasets (Excluded from Git; download instructions provided in README)
+*.csv
+*.zip
+*.tar.gz
+*.tsv
+
+# OS & Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
